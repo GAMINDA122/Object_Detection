@@ -1,0 +1,10 @@
+Using Library
+
+    01. collections (This is a standard library module, so no installation is required)
+    02. cv2 (OpenCV)
+    03. ultralytics
+
+install 
+
+    01. pip install opencv-python
+    02. pip install ultralytics
